@@ -1,0 +1,30 @@
+
+body {
+    font-family: "Inter", sans-serif;
+}
+
+.navlinks{
+    margin-right: 20px;
+}
+
+.nav{
+    background-color: black;
+}
+
+.cardimage{
+    width: 70px;
+    height: 150px;
+    margin-right: 30px;
+}
+
+.cardpara{
+    font-size: 14px;
+    font-weight: 600;
+    color: gray;
+}
+
+.cardimg{
+    width: 100px;
+    height: 150px;
+    margin-right: 20px;
+}
