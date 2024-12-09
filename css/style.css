@@ -1,4 +1,7 @@
-
+*{
+    margin: 0;
+    padding: 0;
+}
 body {
     font-family: "Inter", sans-serif;
 }
@@ -27,4 +30,14 @@ body {
     width: 100px;
     height: 150px;
     margin-right: 20px;
+}
+
+
+@media screen and (min-width: 770px){
+    .abc{
+       
+        height: 250px;
+        
+        
+    }   
 }
